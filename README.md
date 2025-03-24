@@ -19,6 +19,12 @@ Install the required packages in the requirements.txt file:
 pip install -r requirements.txt
 ```
 
+Don't forget to run the following command to install the required dependencies:
+
+```bash
+scrapling install
+```
+
 # How to use:
 
 There is 2 arguments that you have to pass to the script:
